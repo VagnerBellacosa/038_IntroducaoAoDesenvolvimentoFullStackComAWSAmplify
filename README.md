@@ -1,0 +1,2 @@
+# 038_IntroducaoAoDesenvolvimentoFullStackComAWSAmplify
+Conheça as capacidades providas pelo AWS Amplify, um serviço que fornece aos desenvolvedores uma estrutura para o desenvolvimento de aplicativos da Web e Mobile. Além disso, a AWS provê ferramentas que simplificam a criação componentes de Back-end. Sendo assim, é possível conduzir um processo de desenvolvimento Full-stack usando apenas soluções da AWS. Nesse sentido, o expert compartilhará toda a sua experiência e conhecimentos para que você entenda todo esse processo.
